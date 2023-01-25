@@ -1,1 +1,2 @@
 Hello from GIT
+Adding a new line
